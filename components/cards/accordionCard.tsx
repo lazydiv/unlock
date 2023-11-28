@@ -26,7 +26,7 @@ function AccordionCard() {
                         🔐 Embark on a cryptic quest! To decrypt the enigma secured with AES 256 encryption, delve
                         into the realm of personal connection. The secret key to unravel this mystery lies within my real
                         name. Can you crack the code and reveal the hidden password? Ready for the intriguing riddle? 🚀
-                        <div className="bg-slate-950  border border-white/50 text-xs text-center mx-auto md:text-lg p-5 mt-2 rounded-xl">
+                        <div className="bg-slate-950  border border-white/50 text-xs text-center mx-auto md:text-lg py-5 md:p-5 mt-2 rounded-xl">
                             U2FsdGVkX19OS/+OmTwPGc2gSxSHTGGNgd7rqDTOhwk=
                         </div>
                     </AccordionContent>

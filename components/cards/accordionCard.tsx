@@ -17,7 +17,7 @@ function AccordionCard() {
                         In a time when screens were blank, 🖥️ <br />
                         Two minds sparked a coding prank. 💡 <br />
                         They dreamt of a digital hive, 🌐 <br />
-                        Can you guess when Microsoft came alive? 🚀
+                        Can you guess when gate's dreem came alive? 🚀
                     </AccordionContent>
                 </AccordionItem>
                 <AccordionItem value="item-2">

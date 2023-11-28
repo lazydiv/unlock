@@ -21,7 +21,7 @@ function AccordionCard() {
                     </AccordionContent>
                 </AccordionItem>
                 <AccordionItem value="item-2">
-                    <AccordionTrigger className="text-xl">Letters and numbers dance in a secret code 💃</AccordionTrigger>
+                    <AccordionTrigger className="text-xl">numbers dance in a secret code 💃</AccordionTrigger>
                     <AccordionContent className="font-mono text-md">
                         🔐 Embark on a cryptic quest! To decrypt the enigma secured with AES 256 encryption, delve
                         into the realm of personal connection. The secret key to unravel this mystery lies within my real
